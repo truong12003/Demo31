@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 2 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="respond_string">Respond</string>
+	<string name="_3_herald_string">3 HERALD</string>
+	<string name="_400m_from_you_string">400m from you</string>
+	<string name="reward_34__string">Reward 34$</string>
+	<string name="leaving_for_a_week__french_bulldog_wilfred_needs_help_feeding_twice_a_day_and_walk_from_26_to_30_september__i_bought_food__it_will_be_easy__string">Leaving for a week, French Bulldog Wilfred needs help feeding twice a dayand walk from 26 to 30 September. I bought food, it will be easy.</string>
+	<string name="go_for_a_walk_and_feed_the_dog_string">Go for a walk and feed the dog</string>
+	<string name="until_26_09_string">Until 26.09</string>
+	<string name="anderson_g__string">Anderson G.</string>
+	<string name="_4_9_string">4.9</string>
+</resources>
